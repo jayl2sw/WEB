@@ -1,0 +1,11 @@
+#main_nav {
+    height: 90px;
+    width: 100%;
+    font-size: 10px;
+}
+
+#home_logo{
+    width: 13px;
+    height: 17px;
+    padding-bottom: 4px;
+}
